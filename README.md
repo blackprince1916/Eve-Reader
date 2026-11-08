@@ -195,4 +195,4 @@ This repository serves as the official landing page for Eve Reader. The software
 **Get the most recent version of Eve Reader today!**
 
 ---
-**Last updated:** 2026-11-08 10:56:07 UTC
+**Last updated:** 2026-11-08 16:53:56 UTC
